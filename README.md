@@ -1,1 +1,1 @@
-Prediction of sales
+PRACTICE PURPOSE
